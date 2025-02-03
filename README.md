@@ -6,18 +6,18 @@
 </p>
 
 <p align="center">
-    <img src="your-image-url-here" width="600" alt="UK Accidents Dashboard">
-</p>
-<p align="center">
 
 📖 About This Project
-🚀 This project is a comprehensive analysis of UK Road Accidents data, using Excel for data cleaning, pivot tables, and advanced visualizations. The dataset includes accident severity, weather conditions, road types, and more.
+
+🚀 This project is a comprehensive analysis of UK Road Accidents data, using Excel for data cleaning, pivot tables, and advanced visualizations. 
+
+The dataset includes accident severity, weather conditions, road types, and more.
 
 💡 Key Highlights:
 
-🧹 Data Cleaning: Removing inconsistencies and missing values.
-📊 Pivot Tables & Charts: Interactive insights into accident trends.
-🎨 Dashboards & Visualizations: Engaging and informative charts.
-🏆 Insights & Findings: Trends by weather, road types, and severity.
+🧹 Data Cleaning: Removing inconsistencies and missing values.\n
+📊 Pivot Tables & Charts: Interactive insights into accident trends.\n
+🎨 Dashboards & Visualizations: Engaging and informative charts.\n
+🏆 Insights & Findings: Trends by weather, road types, and severity.\n
 
 </p>
