@@ -15,9 +15,9 @@ The dataset includes accident severity, weather conditions, road types, and more
 
 💡 Key Highlights:
 
-🧹 Data Cleaning: Removing inconsistencies and missing values.\n
-📊 Pivot Tables & Charts: Interactive insights into accident trends.\n
-🎨 Dashboards & Visualizations: Engaging and informative charts.\n
-🏆 Insights & Findings: Trends by weather, road types, and severity.\n
+🧹 Data Cleaning: Removing inconsistencies and missing values.
+📊 Pivot Tables & Charts: Interactive insights into accident trends.
+🎨 Dashboards & Visualizations: Engaging and informative charts.
+🏆 Insights & Findings: Trends by weather, road types, and severity.
 
 </p>
