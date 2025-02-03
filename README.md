@@ -24,8 +24,3 @@ The dataset includes  accident severity, weather conditions, road types, and mor
 <br>
 🏆  Insights & Findings:  Trends by weather, road types, and severity.  
 </p>
-
-<h3>📥 Download the Project File</h3>
-
-📂  Project File :  
-🔗 [Download Excel Project](https://github.com/your-username/your-repo-name/raw/main/Excel%20Project%201.xlsx)
